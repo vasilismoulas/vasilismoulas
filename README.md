@@ -4,7 +4,7 @@
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="www.youtube.com/@vasilismoulas">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="your-twitter-URL">
@@ -18,7 +18,7 @@ Curiosity X Creativity X Contribution
 <div>
 <ui>
   <li>📫 Email for Business Inquiries: vasilismoulas11@gmail.com</li>
-  <li>🎬 YouTube Channel: <a href="www.youtube.com/@vasilismoulas">Vasilis Moulas</a></li>
+<!--   <li>🎬 YouTube Channel: <a href="www.youtube.com/@vasilismoulas">Vasilis Moulas</a></li> -->
 </ui>
 </div>
 <p>
