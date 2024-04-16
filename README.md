@@ -1,5 +1,5 @@
 <div id="header" align="center">
- <img src="[https://drive.google.com/thumbnail?id=1zvCHX1dOuArtZ7eH88yk87BgHjDSJmPt/view](https://drive.google.com/file/d/1zvCHX1dOuArtZ7eH88yk87BgHjDSJmPt/view)"/> 
+ <img src="https://drive.google.com/file/d/1zvCHX1dOuArtZ7eH88yk87BgHjDSJmPt/view"/> 
   <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -30,5 +30,5 @@ Curiosity X Creativity X Contribution
 </ui>
 </div>
 <div id="footer" align="center">
- <img src=""/> 
+ <img src="https://drive.google.com/file/d/1nkXOoH5K8IYjccGgU24Jl7ER7FURPfyl/view?usp=drive_link"/> 
 </div>
