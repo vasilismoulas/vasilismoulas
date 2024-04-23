@@ -1,5 +1,5 @@
 <div id="header" align="center">
- <img src="https://drive.google.com/file/d/1zvCHX1dOuArtZ7eH88yk87BgHjDSJmPt/view"/> 
+   ![Upper_decoration](https://github.com/vasilismoulas/vasilismoulas/assets/80159699/4de8478c-f21e-439f-b0d9-d978b016b41d)
   <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -29,6 +29,8 @@ Curiosity X Creativity X Contribution
   <li><a href="https://www.youtube.com/watch?v=_sV6ICeZ2no&t=1s">Why you should be aware of Taiwans chip industry (TSMC)</a></li>
 </ui>
 </div>
-<div id="footer" align="center">
- <img src="https://drive.google.com/file/d/1nkXOoH5K8IYjccGgU24Jl7ER7FURPfyl/view?usp=drive_link"/> 
+<div> 
+id![Lower_decoration](https://github.com/vasilismoulas/vasilismoulas/assets/80159699/44e92a89-bdcc-4527-b6ac-2a51e23eaa34)
+="footer" align="center"
+ 
 </div>
