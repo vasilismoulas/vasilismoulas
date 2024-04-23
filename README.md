@@ -1,5 +1,8 @@
+
+![Upper_decoration](https://github.com/vasilismoulas/vasilismoulas/assets/80159699/bdf3a1b0-2486-4617-92a7-ef47405f1d9f)
+
 <div id="header" align="center">
-   ![Upper_decoration](https://github.com/vasilismoulas/vasilismoulas/assets/80159699/4de8478c-f21e-439f-b0d9-d978b016b41d)
+
   <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -30,7 +33,11 @@ Curiosity X Creativity X Contribution
 </ui>
 </div>
 <div> 
-id![Lower_decoration](https://github.com/vasilismoulas/vasilismoulas/assets/80159699/44e92a89-bdcc-4527-b6ac-2a51e23eaa34)
-="footer" align="center"
- 
+
 </div>
+<div id="footer" align="center">
+   
+![Lower_decoration](https://github.com/vasilismoulas/vasilismoulas/assets/80159699/7d79ed6b-3386-4c4d-8991-aacb3701e967)
+
+</div>
+
