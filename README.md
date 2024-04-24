@@ -12,7 +12,7 @@
   </a>
 </div>
 </div>
-Curiosity X Creativity X Contribution
+Curiosity X Creativity
 <p></p>
 <br>
 <div>
