@@ -29,6 +29,12 @@ Curiosity X Creativity
   <li><a href="https://www.youtube.com/watch?v=_sV6ICeZ2no&t=1s">Why you should be aware of Taiwans chip industry (TSMC)</a></li>
 </ui>
 </div>
+<div>
+  🎬My Latest Articles: 
+<ui>
+  <li><a href="https://vmoulas.com/news-letter"></a>-</li>
+</ui>
+</div>
 <div> 
 
 </div>
